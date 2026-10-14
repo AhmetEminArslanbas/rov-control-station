@@ -55,7 +55,7 @@ flowchart LR
 ```
 
 ## Nasıl denenir
-1. [Releases](../../releases) sayfasından `ROVControlStation-Windows.zip` dosyasını indirip `su altı control.exe` ile başlat.
+1. [Releases](../../releases) sayfasından `ROVControlStation-Windows.zip` dosyasını indirip `ROVControlStation.exe` ile başlat.
 2. **simulasyon** düğmesiyle donanım gerektirmeyen simülasyon sahnesine geç. Bir Xbox/PlayStation kumandası takılıysa aracı sürebilirsin.
 3. Gerçek araçla çalışırken COM numarasını girip **Bağlan**'a bas, ardından ARM et.
 
