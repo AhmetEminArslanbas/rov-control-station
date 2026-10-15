@@ -31,7 +31,7 @@ Pilot, gamepad ile aracı Unity arayüzü üzerinden sürer. Komutlar seri hat �
 - **Otonom hedef takibi:**
   - Webcam görüntüsü HSV uzayında taranır ve kırmızı hedefin ağırlık merkezi bulunur.
   - Hedef ekranın sağında, solunda, üstünde ya da altında olmasına göre yaw/throttle komutları üretilir.
-- **Simülasyon modu:** Donanım olmadan sürüş pratiği için fizik tabanlı (Rigidbody) bir havuz sahnesi.
+- **Simülasyon modu:** Donanım olmadan sürüş pratiği için fizik tabanlı (Rigidbody) havuz sahnesi. Araç takip kamerasıyla izlenir, araç kamerası köşede küçük pencerede görünür; derinlik, yön, hız ve throttle canlı gösterilir.
 
 <img src="docs/images/simulation.png" width="640" alt="Simülasyon modu">
 
